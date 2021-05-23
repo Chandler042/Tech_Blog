@@ -1,0 +1,17 @@
+[
+    {
+      "name": "One Punch Man",
+      "email": "1PunchMan@myspace.org",
+      "password": "1234567adfghg"
+    },
+    {
+        "name": "Darth Vader",
+        "email": "Vader@gmail.org",
+        "password": "Darkside222"
+    },
+    {
+        "name": "Goku",
+        "email": "Saiyan@yah.org",
+        "password": "GohanRam89"
+    }
+]
