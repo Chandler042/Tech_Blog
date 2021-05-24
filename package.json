@@ -1,5 +1,5 @@
 {
-  "name": "tech-blog",
+  "name": "Tech_Blog",
   "version": "1.0.0",
   "description": "How About That? A Tech-Blog for the Easily Impressed",
   "main": "server.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "tech-blog"
   ],
-  "author": "Brent B.",
+  "author": "Chandler Organ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Chandler042/Tech_Blog/issues"

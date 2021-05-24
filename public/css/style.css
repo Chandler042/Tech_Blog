@@ -1,9 +1,9 @@
 :root {
-    --preview-background: rgba(0, 139, 255, 0.5)
+    /* --preview-background: rgba(0, 139, 255, 0.5) */
 }
 
 body {
-    background-image: url(/public/images/Cool-3D-Picture-620x388.jpg);
+    background-image: url(../images/Cool-3D-Picture.jpg);
 }
 
 .top {
@@ -29,7 +29,7 @@ body {
 
 .post-preview {
     display: flex;
-    width: 600px;
+    width: 100%;
     flex-flow: row wrap;
     justify-content: space-around;
     margin: 5px;
