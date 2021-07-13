@@ -1,5 +1,5 @@
 {
-  "name": "Tech_Blog",
+  "name": "tech_blog",
   "version": "1.0.0",
   "description": "How About That? A Tech-Blog for the Easily Impressed",
   "main": "server.js",
@@ -31,7 +31,7 @@
     "mysql2": "^2.2.5",
     "path": "^0.12.7",
     "process": "^0.11.10",
-    "sequelize": "^6.6.2"
+    "sequelize": "^6.6.5"
   },
   "devDependencies": {
     "@types/express-session": "^1.17.3"
